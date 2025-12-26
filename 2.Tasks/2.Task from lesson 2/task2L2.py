@@ -1,0 +1,5 @@
+food = input('Whats your favorite food? ')
+sleep = int(input('How many hours do you sleep? '))
+age = int(input('How old are you? '))
+print('You are ',age ,'years old,','you sleep',sleep,'hours,','and love eating',food)
+input('Press enter to exit')
